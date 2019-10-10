@@ -1,2 +1,2 @@
 this is my first file
-i am learning GIT here
+i need to edit thus file for some reason i am learning GIT here
